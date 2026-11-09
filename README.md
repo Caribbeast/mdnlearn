@@ -1,2 +1,2 @@
-# mdnlearn.github.io
+# mdnlearn
 Testings from the mdn Learn site
